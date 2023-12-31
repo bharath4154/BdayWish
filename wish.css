@@ -22,8 +22,8 @@ body {
   border: 10px solid #e06e1d;
   -webkit-box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
           box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(100, 95, 95, 0.305)), to rgb(18, 18, 18)), url("assets/Pra2.jpg");
-  background-image: linear-gradient(to bottom,rgba(88, 87, 87, 0.436), rgb(18, 18, 18)), url("assets/Pra2.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(100, 95, 95, 0.305)), to rgb(18, 18, 18)), url("Pra2.jpg");
+  background-image: linear-gradient(to bottom,rgba(88, 87, 87, 0.436), rgb(18, 18, 18)), url("Pra2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
